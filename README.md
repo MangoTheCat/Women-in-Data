@@ -11,6 +11,12 @@ Follow instructions given in:
 
 to install R and RStudio. 
 
+### R Packages
+During the workshops we will be using the following R packages:
+* tidyverse
+* shiny
+* mangoTraining
+
 ## Introduction to R  
 
 ## Shiny and R - Building a web app
