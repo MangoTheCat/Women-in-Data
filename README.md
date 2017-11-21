@@ -20,3 +20,7 @@ During the workshops we will be using the following R packages:
 ## Introduction to R  
 
 ## Shiny and R - Building a web app
+
+## Further Reading
+
+[R in 24 Hours](https://www.amazon.co.uk/24-Hours-Sams-Teach-Yourself/dp/0672338483)
