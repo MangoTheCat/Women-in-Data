@@ -6,8 +6,8 @@
 
 ## Installation instructions 
 Follow instructions given in:
-* [Installation_instructions.pdf](https://github.com/MangoTheCat/Women-in-Data/blob/feature/intro_to_R_jelena/Installation_instructions.pdf)
-* [Installing_R_packages.pdf](https://github.com/MangoTheCat/Women-in-Data/blob/feature/intro_to_R_jelena/Installing_R_packages.pdf)
+* [Installation_instructions.pdf](https://github.com/MangoTheCat/Women-in-Data/blob/master/Installation_instructions.pdf)
+* [Installing_R_packages.pdf](https://github.com/MangoTheCat/Women-in-Data/blob/master/Installing_R_packages.pdf)
 
 to install R and RStudio. 
 
