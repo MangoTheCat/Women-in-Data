@@ -1,7 +1,7 @@
 
 # Women in Data 2017
 
-> Material and insturctions for Introduction to R and Shiny and R - Building a web app workchops
+> Material and insturctions for **Introduction to R** and **Shiny and R - Building a web app** workshops
 
 
 ## Installation instructions 
