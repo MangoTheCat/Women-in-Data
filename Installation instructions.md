@@ -21,7 +21,7 @@ The following steps describe the process of installing R on Windows:
     * Keep clicking **Next** through all the options, assuming you are happy with what the wizard is going to do.
     * When you are ready, click the **Finish** button.
     
-    ![](w_stp_r.png?raw=true)
+    ![](plts/w_stp_r.png?raw=true)
 
 ### Installing R on Mac OS X
 Carefully read the notes at the top of the page before downloading R on OS X.
@@ -42,7 +42,7 @@ RStudio is installed from RStudio’s own website, [www.rstudio.com](https://www
 3.    Assuming you do not wish to purchase the commercial licence now, click the **DOWNLOAD RSTUDIO DESKTOP** button.
 4.    Clicking the **DOWNLOAD RSTUDIO DESKTOP** button takes you to a page with several links to installers for the open-source version of RStudio Desktop. Click on:
 
-![](rstio.png?raw=true)
+![](plts/rstio.png?raw=true)
 
 5. This will take you to the bottom of the the page.  Find an installer that is appropriate for your operating system (for example, *RStudio 1.1.383 – Windows Vista/7/8/10*).
 6. Click the link to download the installer.
