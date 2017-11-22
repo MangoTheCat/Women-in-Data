@@ -19,6 +19,13 @@ During the workshops we will be using the following R packages:
 
 ## Introduction to R  
 
+During this workshop we will cover the following topics:
+* Reading data into R
+* Manipulating data
+* Data visualisation
+
+If time allows, we will also cover simple statistics in R
+
 ## Shiny and R - Building a web app
 
 ## Further Reading
