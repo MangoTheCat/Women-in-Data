@@ -40,7 +40,10 @@ RStudio is installed from RStudio’s own website, [www.rstudio.com](https://www
 1.    The RStudio home page has traditionally contained one or more obvious links in order install the RStudio IDE. Select the link to take you to the RStudio IDE download page.
 2.    You are presented with the option of installing the **Desktop** or **Server** version of the IDE. Here you can find *“RStudio Desktop”* link.
 3.    Assuming you do not wish to purchase the commercial licence now, click the **DOWNLOAD RSTUDIO DESKTOP** button.
-4.    Clicking the **DOWNLOAD RSTUDIO DESKTOP** button takes you to a page with several links to installers for the open-source version of RStudio Desktop. Click on: ![](rstio.png?raw=true), or croll down through the page until you see an installer that is appropriate for your operating system (for example, *RStudio 1.1.383 – Windows Vista/7/8/10*).
+4.    Clicking the **DOWNLOAD RSTUDIO DESKTOP** button takes you to a page with several links to installers for the open-source version of RStudio Desktop. Click on:
+![](rstio.png?raw=true),
+
+6.This will take you to the bottom of the the page.  Find an installer that is appropriate for your operating system (for example, *RStudio 1.1.383 – Windows Vista/7/8/10*).
 5. Click the link to download the installer.
 6. Run the installer. If you are on Mac OS X, you are presented with an install wizard.
     * Navigate through the wizard, clicking Next to accept the default options.
