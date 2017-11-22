@@ -9,7 +9,7 @@
 
 2. Click on **Install** tab. In the popup window type the name (or coma separated list of names) of the package you want to install from CRAN. Make sure that the **Install dependencies** filed is checked.
  ![](pkg2.png?raw=true)
- 3.	•Click on **Install*** button.
+ 3. Click on **Install*** button.
  
 
 
@@ -38,7 +38,7 @@ install.packages(c("mangoTraining", "tidyr"))
 
 ###  From ZIP Archive
 
-Use the `install.packages` function. First parameter should be the path to the **tar.gz** file you want to install. 
+Use the `install.packages` function. First parameter should be the path to the **tar.gz** file you want to install.
 ```
 install.packages("path_to/mangoTraining.tar.gz", type = "source")
 ```
